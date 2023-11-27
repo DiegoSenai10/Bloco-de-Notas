@@ -1,0 +1,16 @@
+.nota {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    position: relative;
+}
+
+input[type="color"] {
+    margin: 5px 0;
+}
+
+/* Estilize a cor da letra aqui */
+.para-trocar-cor {
+    color: black; /* Cor padrão da letra */
+}
